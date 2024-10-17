@@ -1,71 +1,51 @@
-# Jash Vaghasiya - AI & ML Enthusiast 🤖💡
+---
 
-## About Me
+# Jash Vaghasiya - Data Engineer
 
-Dedicated AI and ML enthusiast pursuing a Postgraduate Diploma at Lambton College in Toronto, Ontario, Canada 🇨🇦. I bring advanced analytical, computer science, and applied mathematics skills to contribute effectively to data science, ML, product planning, and business intelligence. With proven experience as a collaborative Machine Learning Intern at Dion Apps, I am passionate about transforming data into actionable insights 🚀.
+👋 Hi there! I'm Jash Vaghasiya, a passionate Data Engineer with experience in building, optimizing, and managing large-scale data pipelines using cloud services such as Azure Data Factory, Synapse, and Databricks. I have a strong background in ETL/ELT processes, cloud data migrations, and creating robust data architectures that drive business insights and performance improvements.
 
-- **Location:** Toronto, Ontario, Canada 🌍
-- **Pursuing:** Postgraduate in AI & ML at Lambton College 🎓
-- **Skills:** Python 🐍, Data Science 🔍, Cloud Deployment ☁️, JavaScript, Report Generation 📊
-- **Interests:** Machine Learning 🧠, Data Analytics 📈, Cloud Computing ☁️
+## 🔧 Technical Skills
 
-## Experience
+- **Cloud Services:**  
+  - Azure Synapse Analytics, Azure Data Factory (ADF), Azure Databricks, Azure Data Lake Storage (ADLS), Azure Blob Storage, Azure DevOps, Azure Cosmos DB, Azure Purview, Azure Stream Analytics, Azure Log Analytics
+- **Programming Languages:**  
+  - SQL, Python (Pandas, NumPy), PySpark
+- **Big Data & Storage Technologies:**  
+  - Teradata (IDW), Microsoft SQL, Avro, CSV, Parquet, JSON, Hadoop, Hive, HDFS, Spark Structured Streaming, Kafka
+- **Database & Data Warehousing:**  
+  - Data Warehouse Architecture, Star & Snowflake Schemas, CTEs, Subqueries, Indexing, Query Optimization
+- **Other Tools:**  
+  - Apache Airflow, REST APIs, YAML, XML, Power BI, Matplotlib, Seaborn, Linux, GitHub, SSMS, SSIS
 
-### Machine Learning Intern at Dione Apps 💼
-- **Duration:** August 2022 - November 2022
-- **Location:** Gujarat, India 🇮🇳
-- **Key Achievements:**
-  - Improved ML project accuracy by 15% through feature engineering, class balancing, and algorithm optimization 🔧.
-  - Showcased cloud deployment skills with AWS and Heroku, managing end-to-end ML pipelines 🛠️.
-  - Skilled in Python, JavaScript, Flask, ReactJS, MySQL, MongoDB, and applied agile development methodologies 🌟.
+## 🚀 Certifications
 
-## Projects
+- Microsoft Certified: Azure Data Engineer Associate (July 2024)
+- Databricks Certified: Data Engineer Professional (August 2024)
+- Databricks Certified: Associate Developer for Apache Spark 3.0 – Python (August 2024)
+- Databricks Certified: Data Engineer Associate (July 2024)
 
-### QuickMinutes - Meeting Summarizer 📝
-- **Tech Stack:** RNNs, Transformers, Acoustic Models, NLU
-- **Achievements:** Revolutionized professional interactions through immediate, accurate transcriptions and insights 🌐.
+## 🛠️ Projects & Experience
 
-### Glow AI - Skin Care Product Recommendation System 💄
-- **Tech Stack:** Selenium, ReactJS, Flask, MongoDB, NLTK
-- **Achievements:** Achieved a 60% increase in personalized recommendations through robust text analysis and vectorization 📊.
+### Data Engineer Intern @ SpicyChatAI | Montreal, Quebec | May 2024 – Present
+- **Optimized Data Pipelines:** Enhanced workflows in Azure Data Factory and Databricks, resulting in a 30% increase in processing speed for over 10,000 daily interactions.
+- **Automation & Reliability:** Developed a data validation framework that improved data reliability by 40% and automated Spark job scheduling to reduce system downtime by 15%.
+- **Improved Platform Performance:** Architected improvements to real-time applications, boosting data retrieval speed by 25%.
 
-### HR Dashboard 📈
-- **Tools:** MySQL Workbench, Power BI
-- **Achievements:** Delivered insights for informed decision-making through in-depth data analysis 🔍.
+### Data Engineer @ Dione Apps | Ahmedabad, India | January 2021 – November 2022
+- **Data Migration:** Led the migration of 70+ TB of data from Teradata to Azure Synapse, reducing migration time by 40% with zero data loss.
+- **ETL Pipelines:** Built and optimized ETL pipelines that processed data from 126 sources, improving reporting time by 30%.
 
-### Drug Review Classification 💊
-- **Tech Stack:** NLTK, N-grams, SMOTE, Scikit-Learn
-- **Achievements:** Improved pattern recognition by 20% and addressed class imbalance with innovative techniques 📚.
+## 🎓 Education
 
-### Housing Data Scraping and Analysis 🏠
-- **Tech Stack:** Web Scraping, PCA, Clustering
-- **Achievements:** Provided valuable insights through advanced dimensionality reduction and clustering 🔍.
+- **Postgraduate in Artificial Intelligence & Machine Learning**  
+  - Lambton College, Toronto | January 2023 - August 2024
+- **Bachelor’s in Computer Applications**  
+  - Veer Narmad South Gujarat University, Surat, India | July 2018 - June 2021
 
-### Cost Prediction for Logistic Company 🚚
-- **Achievements:** Secured 2nd place in college competition, enhancing model efficiency by 25% 🏆.
+## 📫 Let's Connect!
 
-### E-Commerce Web App (Elixir - An E-Pharmacy Store) 💻
-- **Tech Stack:** MERN Stack, Firebase, SocketIO, Google DialogFlow
-- **Features:** CRUD operations, Real-time chat, Chat Bot, User Authentication 🔐.
+- Email: [jashmukeshvaghasiya@gmail.com](mailto:jashmukeshvaghasiya@gmail.com)
+- LinkedIn: [Jash Vaghasiya](https://www.linkedin.com/in/jash-vaghasiya/)
+- Microsoft Credentials: [View Certifications](https://learn.microsoft.com/en-us/users/jashvaghasiya-4649/credentials/d944bfaa682ef208)
 
-## Education
-
-- **Lambton College**, Toronto, Ontario, Canada 🇨🇦
-  - Postgraduate Diploma in AI & ML 🎓
-- **Veer Narmad South Gujarat University**, Surat, India 🇮🇳
-  - Bachelor's Degree in Computer Science 💻
-
-## Skills
-
-- **Programming Languages:** Python 🐍, JavaScript ✨
-- **Frameworks/Libraries:** Flask 🍶, ReactJS ⚛️, TensorFlow 🧠, Keras 🤖, Scikit-Learn 📊, NLTK 📝
-- **Databases:** MySQL 🗃️, MongoDB 🍃, PostgreSQL 🐘
-- **Tools & Platforms:** AWS ☁️, GCP ☁️, Heroku 🌐, Power BI 📊, Firebase 🔥, GitHub 🐙
-- **Specializations:** Data Science 🔍, Machine Learning 🧠, Natural Language Processing 🗣️
-
-## Contact
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) 🔗
-- **GitHub:** [Your GitHub Profile](https://github.com/your-github-profile) 🔗
-
-Let's connect and explore the possibilities of AI and ML together! 💡🌟
+---
